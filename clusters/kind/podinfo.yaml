@@ -11,3 +11,4 @@ spec:
   path: ./apps/podinfo
   wait: true
   timeout: 1m
+  prune: true
